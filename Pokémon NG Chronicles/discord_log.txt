@@ -1,9 +1,0 @@
-2026-10-11 11:46:27 Conectado a discord-ipc-0
-2026-10-11 11:46:27 Actividad enviada: En el menú principal / Jugando (pid 77588)
-2026-10-11 11:47:52 Actividad enviada: Ruta 1 / Medallas: 1 (pid 77588)
-2026-10-11 11:49:39 Conectado a discord-ipc-0
-2026-10-11 11:49:39 Actividad enviada: En el menú principal / Jugando (pid 100016)
-2026-10-11 11:50:06 Actividad enviada: Ruta 1 / Medallas: 1 (pid 100016)
-2026-10-11 11:50:57 Actividad enviada: Ciudad Diamante / Medallas: 1 (pid 100016)
-2026-10-11 11:51:12 Actividad enviada: Pueblo Spawn / Medallas: 1 (pid 100016)
-2026-10-11 11:52:03 Actividad enviada: Ruta 1 / Medallas: 1 (pid 100016)

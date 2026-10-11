@@ -1,0 +1,178 @@
+﻿# Consulta la documentación en la wiki para saber lo que contiene este archivo.
+# Aunque no te hace falta si estás usando el Editor PBS.
+0,POKEMONTRAINER_Alex,Campeón,255,MirrorBattle,,,Male,255
+1,POKEMONTRAINER_Mary,Campeona,255,MirrorBattle,,,Female,255
+2,POKEMONTRAINER_Brendan,Entrenador,60,,,,Male,60
+3,POKEMONTRAINER_May,Entrenadora,250,May theme.ogg,,,Female,100
+4,RIVAL1,Rival,255,Azul Combate.ogg,Victoria Importante.ogg,,Male,255
+5,RIVAL2,Rival,36,,,,Male,36
+6,AROMALADY,Señorita Aroma,32,,,,Female,32
+7,BEAUTY,Modelo,56,,,,Female,56
+8,BIKER,Motorista,32,,,,Male,32
+9,BIRDKEEPER,Ornitólogo,32,,,,Male,32
+10,BUGCATCHER,Cazabichos,16,,,,Male,16
+11,BURGLAR,Ladrón,88,,,,Male,32
+12,CHANELLER,Exorcista,32,,,,Female,32
+13,CUEBALL,Calvo,42,,,,Male,42
+14,ENGINEER,Mecánico,48,,,,Male,48
+15,FISHERMAN,Pescador,32,,,,Male,32
+16,GAMBLER,Jugón,72,,,,Male,32
+17,GENTLEMAN,Aristócrata,72,,,,Male,72
+18,HIKER,Montañero,32,,,,Male,32
+19,JUGGLER,Malabarista,32,,,,Male,32
+20,LADY,Damisela,160,,,,Female,72
+21,PAINTER,Artista,16,,,,Female,16
+22,POKEMANIAC,Pokémaníaco,64,,,,Male,64
+23,POKEMONBREEDER,Criapokémon,48,,,,Female,48
+24,PROFESSOR,Profesor,100,,,,Male,100
+25,ROCKER,Técnico,24,,,,Male,24
+26,RUINMANIAC,Ruinamaníaco,48,,,,Male,48
+27,SAILOR,Marinero,32,,,,Male,32
+28,SCIENTIST,Científico,48,,,,Male,48
+29,SUPERNERD,Cerebrito,48,,,,Male,48
+30,TAMER,Domador,40,,,,Male,40
+31,BLACKBELT,Karateka,32,,,,Male,32
+32,CRUSHGIRL,Luchadora,24,,,,Female,24
+33,CAMPER,Campista,16,,,,Male,16
+34,PICNICKER,Dominguera,16,,,,Female,16
+35,COOLTRAINER_M,Entre. Guay,60,,,,Male,60
+36,COOLTRAINER_F,Entre. Guay,60,,,,Female,60
+37,YOUNGSTER,Joven,16,,,,Male,16
+38,LASS,Chica,16,,,,Female,16
+39,POKEMONRANGER_M,Pokémon Ranger,60,,,,Male,60
+40,POKEMONRANGER_F,Pokémon Ranger,60,,,,Female,60
+41,PSYCHIC_M,Médium,32,,,,Male,32
+42,PSYCHIC_F,Médium,32,,,,Female,32
+43,SWIMMER_M,Nadador,16,,,,Male,32
+44,SWIMMER_F,Nadadora,16,,,,Female,32
+45,SWIMMER2_M,Nadador,16,,,,Male,32
+46,SWIMMER2_F,Nadadora,16,,,,Female,32
+47,TUBER_M,Playero,4,,,,Male,16
+48,TUBER_F,Playera,4,,,,Female,16
+49,TUBER2_M,Playero,4,,,,Male,16
+50,TUBER2_F,Playera,4,,,,Female,16
+51,COOLCOUPLE,Dúo guay,72,,,,Mixed,48
+52,CRUSHKIN,Dúo Fuerte,48,,,,Mixed,48
+53,SISANDBRO,Hermanos,16,,,,Mixed,48
+54,TWINS,Gemelas,24,,,,Mixed,24
+55,YOUNGCOUPLE,Pareja Joven,60,,,,Mixed,32
+56,TEAMROCKET_M,Recluta Team,32,,,,Male,32
+57,TEAMROCKET_F,Recluta Team,32,,,,Female,32
+58,ROCKETBOSS,Líder Rocket,100,,,,Male,100
+59,LEADER_Brock,Líder Gimnasio,202,KantoGym.ogg,,,Male,202
+60,LEADER_Misty,Líder Gimnasio,202,KantoGym.ogg,,,Female,202
+61,LEADER_Surge,Líder Gimnasio,205,KantoGym.ogg,,,Male,205
+62,LEADER_Erika,Líder Gimnasio,202,KantoGym.ogg,,,Female,202
+63,LEADER_Koga,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,100
+64,LEADER_Sabrina,Líder Gimnasio,100,Battle! (Gym Leader),,,Female,100
+65,LEADER_Blaine,Líder Gimnasio,205,KantoGym.ogg,,,Male,205
+66,LEADER_Giovanni,Líder Gimnasio,100,Battle! (Gym Leader),,,Male,100
+67,ELITEFOUR_Lorelei,Alto Mando,255,KantoGym.ogg,,,Female,255
+68,ELITEFOUR_Bruno,Alto Mando,100,Battle! (Gym Leader),,,Male,100
+69,ELITEFOUR_Agatha,Alto Mando,202,KantoGym.ogg,,,Female,202
+70,ELITEFOUR_Lance,Alto Mando,100,Battle! (Gym Leader),,,Male,100
+71,CHAMPION,Campeón,100,Battle! (Champion),,,Male,100
+73,LEADER_Alfredo,Líder Gimnasio,100,AlfredoGym.ogg,,,Male,100
+74,RIVAL_5,Rival,30,Rival Dary.ogg,,,Male,30
+75,SPECIALIST_Whitney,Especialista,51,Battle! vs Johto.ogg,,,Male,51
+76,LEADER_CsDark,Líder Gimnasio,100,GymLeaderCsDark.ogg,,,Male,100
+77,RIVAL_RANA,Rival,99,RivalLuis.ogg,,,Male,99
+78,LEADER_Cris,Líder Gimnasio,25,Gym leader Cris.ogg,,,Male,25
+79,RIVAL_5_2,Rival,70,Rival Dary.ogg,,,Male,70
+80,RIVALMT,Rival,60,AngelBattle.ogg,,,Male,60
+81,TEAMNG_M,Recluta,60,GruntNG.ogg,,ngencounter.ogg,Male,60
+82,TEAMNG_F,Recluta,75,GruntNG.ogg,,,Female,75
+83,TEAMNG_SUBKR,Sublíder NeoGov,96,KirishadowNG.ogg,,,Male,96
+84,TEAMNG_SUBSH,Sublíder NeoGov,102,KirishadowNG.ogg,,,Male,102
+85,TEAMNGLEADER,Líder NeoGov,198,Chenoms.ogg,,,Male,198
+86,TEAMNGDOBLE_M,Reclutas,90,GruntNG.ogg,,,Male,90
+87,TEAMNGDOBLE_F,Reclutas,96,GruntNG.ogg,,,Female,96
+88,TEAMNGDOBLE_MIXTO,Reclutas,102,GruntNG.ogg,,,Mixed,102
+89,COOLTRAINERA,Entrenador Guay Élite,200,battle tower theme.ogg,,,Male,200
+90,SATAN_BOT,Bot,30,,,,Male,30
+91,LEADER_SATAN,Líder Gimnasio,90,Satanclaus.ogg,,,Male,90
+92,NADADORAR,Nadadora,30,,,,Female,30
+93,NADADORARN,Nadadora,30,,,,Female,30
+94,LEADER_ALE,Líder Gimnasio,200,AleTheme.ogg,,,Female,200
+95,VOCALOID,Vocaloid,171,Mikumikuuiu.ogg,,,Male,171
+96,DOUBLEPSYCHIC,Pareja Psíquica,90,,,,Mixed,90
+97,MAXIMO,Entrenador Élite,250,CampeonMaximo.ogg,,,Male,250
+98,RIVAL_RANA2,Rival,100,RivalLuis.ogg,,,Male,100
+99,CYNTHIA,Entrenadora Élite,255,Cynthia Battle.ogg,,,Female,255
+100,SUBSNG,Sublíderes,102,KirishadowNG.ogg,,,Male,102
+101,ANGEL2,Rival,102,AngelBattle.ogg,,,Male,102
+102,LEADER_PIPEZ,Líder Gimnasio,255,PipezGymLeader.ogg,,,Male,255
+103,SKYTRAINERM,Surcacielos,60,,,,Male,60
+104,SKYTRAINERF,Surcacielos,60,,,,Female,60
+105,RIVAL_DARY,Rival,151,Rival Dary.ogg,,,Male,151
+106,KIRIFINAL1,Sublíder,132,KirishadowNG.ogg,,,Male,132
+107,KIRIMELLO,Líder Gimnasio & Sublíder NeoGov,201,LeaderMello.ogg,,,Male,201
+108,BALDELITE,Calvo Élite,120,,,,Male,120
+109,ELITEBALDS,Calvos Élite,162,,,,Male,162
+110,GALARGYMLEADER_BEA,Líder Galar,150,GymGalar.ogg,,,Female,150
+111,LEADER_SabrinaNew,Líder Gimnasio,100,Battle! (Gym Leader),,,Female,100
+112,GYMLEADERS_F,Líderes de Gimnasio,200,GalarKantoMashupFeo.ogg,,,Female,200
+113,SHADOWSEMIFINAL,Gobernante NeoGov,150,KirishadowNG.ogg,,,Male,150
+114,FINALSHADOW,Gobernante Desatado,255,Godskin.ogg,,,Male,255
+115,WALLY,Entrenador Élite,240,VsWally.ogg,,,Male,240
+116,EXMALO,Ex-Recluta,102,GruntNG.ogg,,ngencounter.ogg,Male,102
+117,EXMALA,Ex-Recluta,153,GruntNG.ogg,,,Female,153
+118,DRAGONTAMER,Doma Dragón,201,,,,Male,201
+119,ALEFINAL,Contendiente,250,Battle (Greninja).ogg,,,Female,250
+120,RANAFINAL,Contendiente,250,Battle (Greninja).ogg,,,Male,250
+121,ANGELFINAL,Contendiente,250,Battle (Greninja).ogg,,,Male,250
+122,CRISFINAL,Contendiente,250,Battle (Greninja).ogg,VictoryChampion.ogg,,Male,250
+123,GOKU_VEGETA,Saiyajins,180,GokuVegeta.ogg,,,Male,180
+124,LEADER_MELLO,Líder Gimnasio,150,LeaderMello.ogg,,,Male,150
+125,COOLTRAINERAW,Entrenadora Guay Élite,200,battle tower theme.ogg,,,Female,200
+126,ELITEKRIS,Entrenadora de Élite,255,Kris.ogg,VictoryChampion.ogg,,Female,255
+127,SILVER,Entrenador de Élite,255,Silver.ogg,VictoryChampion.ogg,,Male,255
+128,EUSINE,Entrenador de Élite,255,Eusine.ogg,VictoryChampion.ogg,,Male,255
+129,BRENDANTOWER,Entrenador de Élite,250,May theme.ogg,VictoryChampion.ogg,,Male,250
+130,ZINNIA,Entrenadora de Élite,255,Zinnia.ogg,VictoryChampion.ogg,,Female,255
+131,MAYA,Entrenadora de Élite,255,Maya.ogg,VictoryChampion.ogg,,Female,255
+132,BARRY,Entrenador de Élite,255,Barry.ogg,VictoryChampion.ogg,,Male,255
+133,HILDA,Entrenadora de Élite,255,Hilda.ogg,VictoryChampion.ogg,,Female,255
+134,CHEREN,Entrenador de Élite,255,CherenBel.ogg,VictoryChampion.ogg,,Male,255
+135,BEL,Entrenadora de Élite,255,CherenBel.ogg,VictoryChampion.ogg,,Male,255
+136,ENE,Entrenador de Élite,255,N.ogg,VictoryChampion.ogg,,Male,255
+137,MIRTO,Entrenador de Élite,255,Mirto.ogg,VictoryChampion.ogg,,Male,255
+138,ALFREDOBT,Líder Élite,255,AlfredoGym.ogg,VictoryChampion.ogg,,Male,255
+139,SERENA,Entrenadora de Élite,255,XY Rival.ogg,VictoryChampion.ogg,,Female,255
+140,SYCAMORE,Entrenador de Élite,255,Sycamore.ogg,VictoryChampion.ogg,,Male,255
+141,DIANTA,Entrenadora de Élite,255,Diantha.ogg,VictoryChampion.ogg,,Female,255
+142,CESEDARXX,Lider Élite,255,GymLeaderCsDark.ogg,VictoryChampion.ogg,,Male,255
+143,KUKUI,Entrenador de Élite,255,Kukui.ogg,VictoryChampion.ogg,,Male,255
+144,GUZMA,Entrenador de Élite,255,Guzma.ogg,VictoryChampion.ogg,,Male,255
+145,FRANCINEPLUMERIA,Entrenadora de Élite,255,Francine.ogg,VictoryChampion.ogg,,Female,255
+146,PAUL,Entrenador de Élite,255,PaulHop.ogg,VictoryChampion.ogg,,Male,255
+147,GLADION,Entrenador de Élite,255,Gladion.ogg,VictoryChampion.ogg,,Male,255
+148,LIONEL,Entrenador de Élite,255,Leon.ogg,VictoryChampion.ogg,,Male,255
+149,MENCIA,Entrenadora de Élite,255,Nemona.ogg,VictoryChampion.ogg,,Female,255
+150,HUGH,Entrenador de Élite,255,Hugh.ogg,VictoryChampion.ogg,,Male,255
+151,ASH,Entrenador de Élite,255,Ash.ogg,VictoryChampion.ogg,,Male,255
+152,KARMAINCOGNITO,Entrenador,255,KarmaBattle.ogg,,,Male,255
+153,REGENTEOR,Regente,250,Origenes.ogg,Victory New.ogg,,Male,250
+154,REGENTEFL,Regente,250,RegenteFlama.ogg,Victory New.ogg,,Male,250
+155,MAXIMODOS,Entrenador de Élite,255,CampeonMaximo.ogg,,,Male,255
+156,CHATOT,Chatot,30,,,,Male,30
+157,JIGGLYPUFF,JIGGLY,30,,,,Male,30
+158,KRICKETUNE,Kricketune,30,,,,Male,30
+159,RILLABOOM,Rillaboom,30,,,,Male,30
+160,MELOETTA,Meloetta,30,,,,Female,30
+161,REGENTECA,Regente,255,Catris.ogg,Victory New.ogg,,Male,255
+162,PROFGARY,Profesor,255,Azul Combate.ogg,Victoria Importante.ogg,,Male,255
+163,REGENTEKR,Regente,255,karmatherock.ogg,,,Male,255
+164,SKIERF,Esquiadora,60,,,,Female,60
+165,SKIERM,Esquiador,60,,,,Male,60
+166,DAMO,Comandante,100,damouno.ogg,,,Male,100
+167,KIRITO,Líder de Gimnasio,150,Kirito.ogg,Victory - Gym.ogg,,Male,150
+168,DAMO2,Comandante NeoGov,255,Damo.ogg,Victoria Importante.ogg,,Male,255
+169,LEGENDARIA,Entrenadora Legendaria,255,LegendaryTower.ogg,VictoryLT.ogg,,Female,255
+170,LEGENDARIO,Entrenador Legendario,255,LegendaryTower.ogg,VictoryLT.ogg,,Male,255
+171,MAESTRO,Maestro de Torre,255,TowerMaster.ogg,VictoryMaster.ogg,,Male,255
+172,ARED,Entrenador Leyenda,255,vsRed.ogg,,,Male,255
+173,VATOBICI,Ciclista,120,,,,Male,120
+174,PIPEALE,Líderes de Gimnasio,255,PipeAle.ogg,,,Mixed,255
+175,RALFREDO,Líder de Gimnasio,255,AlfredoGym.ogg,,,Male,255
+176,RCSDARK,Líder de Gimnasio,255,GymLeaderCsDark.ogg,,,Male,255

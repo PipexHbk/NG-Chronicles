@@ -1,0 +1,1722 @@
+﻿[000]
+WildVictoryME=Victory - Wild Pokemon.ogg
+TrainerVictoryME=Victory - Trainer.ogg
+TrainerBattleBGM=Battle vs Trainer
+WildBattleBGM=Wild Battle
+PlayerG=MELOETTA,MELOETTA,MELOETTA,MELOETTA,MELOETTA,MELOETTA,MELOETTA,MELOETTA
+PlayerF=RILLABOOM,RILLABOOM,RILLABOOM,RILLABOOM,RILLABOOM,RILLABOOM,RILLABOOM,RILLABOOM
+PlayerE=KRICKETUNE,KRICKETUNE,KRICKETUNE,KRICKETUNE,KRICKETUNE,KRICKETUNE,KRICKETUNE,KRICKETUNE
+PlayerD=CHATOT,CHATOT,CHATOT,CHATOT,CHATOT,CHATOT,CHATOT,CHATOT
+PlayerC=JIGGLYPUFF,JIGGLYPUFF,JIGGLYPUFF,JIGGLYPUFF,JIGGLYPUFF,JIGGLYPUFF,JIGGLYPUFF,JIGGLYPUFF
+PlayerB=POKEMONTRAINER_Mary,trchar001,girl_bikenew,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offsetnew,girl_fishsurf_offsetnew
+PlayerA=POKEMONTRAINER_Alex,trchar000,boy_bikenew,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+BicycleBGM=Bike
+Home=76,23,5,2
+SurfBGM=Surf
+[001]
+# Intro
+HealingSpot=48,28,10
+[002]
+# Pueblo Empanada
+Outdoor=true
+MapPosition=0,13,12
+ShowArea=true
+[003]
+# Casa de \PN
+BattleBack=IndoorB
+MapPosition=0,13,12
+HealingSpot=76,23,5
+[004]
+# Laboratorio Pokémon
+MapPosition=0,13,12
+HealingSpot=0,0,0
+[005]
+# Ruta 1
+Outdoor=true
+MapPosition=0,13,11
+ShowArea=true
+HealingSpot=0,0,0
+[006]
+# Casa de Kurt
+MapPosition=0,13,11
+[007]
+# Ciudad Milanesa
+Outdoor=true
+MapPosition=0,13,10
+MapSize=2,11
+ShowArea=true
+[008]
+# Casa de Belén
+MapPosition=0,13,12
+[009]
+# Centro Pokémon
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Gimnasio Milanesa
+BattleBack=IndoorB
+MapPosition=0,13,10
+[011]
+# Instituto Pokémon
+MapPosition=0,14,10
+[012]
+# Club Movimientos
+MapPosition=0,14,10
+[013]
+# Rincón de Juegos
+MapPosition=0,14,10
+[014]
+# Centro Comercial PB
+MapPosition=0,13,10
+[015]
+# Centro Comercial P1
+MapPosition=0,13,10
+[016]
+# Centro Comercial P2
+MapPosition=0,13,10
+[017]
+# Centro Comercial P3
+MapPosition=0,13,10
+[018]
+# Centro Comercial P4
+MapPosition=0,13,10
+[019]
+# Centro Comercial Azotea
+MapPosition=0,13,10
+[020]
+# Centro Comercial Ascensor
+MapPosition=0,13,10
+[021]
+# Ruta 2
+Outdoor=true
+MapPosition=0,14,8
+MapSize=1,11
+ShowArea=true
+Weather=Rain,50
+[022]
+# Alola
+HealingSpot=0,0,0
+[023]
+# Pueblo Lomito
+Outdoor=true
+MapPosition=0,15,8
+ShowArea=true
+HealingSpot=0,0,0
+[024]
+# Centro Pokémon
+MapPosition=0,15,8
+HealingSpot=23,11,15
+[025]
+# Tienda
+MapPosition=0,15,8
+[026]
+# Club Fanáticos Pokémon
+MapPosition=0,15,8
+[027]
+# Guardería Pokémon
+MapPosition=0,15,8
+[028]
+# Parque Natural
+Outdoor=true
+BattleBack=Forest
+MapPosition=0,16,8
+ShowArea=true
+[029]
+# Entrada Parque Natural
+MapPosition=0,16,8
+Bicycle=true
+[030]
+# Sala Parque Natural
+MapPosition=0,16,8
+[031]
+# Ruta 3
+Outdoor=true
+MapPosition=0,14,6
+MapSize=2,1101
+ShowArea=true
+[032]
+# Galar
+HealingSpot=0,0,0
+[033]
+# Hisui
+HealingSpot=0,0,0
+[034]
+# Cueva Helada
+BattleBack=IndoorC
+MapPosition=0,15,6
+Bicycle=true
+HealingSpot=0,0,0
+[035]
+# Monte Plateado
+Outdoor=true
+MapPosition=0,13,6
+ShowArea=true
+[036]
+# Liga Pokémon
+MapPosition=0,13,6
+HealingSpot=35,17,7
+[037]
+# Liga Pokémon
+BattleBack=EliteA
+MapPosition=0,13,6
+[038]
+# Hall de la Fama
+MapPosition=0,13,6
+[039]
+# Ruta 4
+Outdoor=true
+MapPosition=0,11,6
+MapSize=2,11
+ShowArea=true
+[040]
+# Ruta 4
+Outdoor=true
+MapPosition=0,11,6
+BicycleAlways=True
+ShowArea=true
+HealingSpot=0,0,0
+[041]
+# Ruta 5
+Outdoor=true
+MapPosition=0,11,7
+MapSize=1,111
+BicycleAlways=True
+ShowArea=true
+HealingSpot=0,0,0
+[042]
+# Paldea
+HealingSpot=0,0,0
+[043]
+# Casa de Chica Spawn
+MapPosition=1,2,16
+HealingSpot=76,0,0
+[044]
+# Ruta 6
+Outdoor=true
+MapPosition=0,11,10
+MapSize=2,11
+ShowArea=true
+[045]
+# Ruta 6
+Outdoor=true
+MapPosition=0,11,10
+BicycleAlways=True
+ShowArea=true
+[046]
+# Entrada Ruta Ciclista
+MapPosition=0,12,6
+Bicycle=true
+[047]
+# Ruta 7
+Outdoor=true
+BattleBack=Mountain
+MapPosition=0,15,10
+MapSize=2,11
+ShowArea=true
+Weather=Rain,0
+[048]
+# Pueblo Spawn
+DiveMap=48
+SnapEdges=true
+Outdoor=true
+MapPosition=1,2,16
+Bicycle=true
+ShowArea=true
+HealingSpot=76,0,0
+[049]
+# Cueva Rocosa
+MapPosition=0,16,10
+Bicycle=true
+[050]
+# Cueva Rocosa
+BattleBack=CaveDark
+MapPosition=0,16,10
+Bicycle=true
+DarkMap=true
+[051]
+# Mazmorra
+MapPosition=0,16,10
+Bicycle=true
+Dungeon=true
+[052]
+# Frente de Batalla
+Outdoor=true
+MapPosition=0,17,10
+ShowArea=true
+[053]
+# Centro Pokémon
+MapPosition=0,17,10
+HealingSpot=52,17,14
+[054]
+# Tienda
+MapPosition=0,17,10
+[055]
+# Torre Batalla
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+# Campo Torre Batalla
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+# Hall Copa Estadio
+MapPosition=0,17,10
+[058]
+# Palacio Batalla
+MapPosition=0,17,10
+[059]
+# Campo Palacio Batalla
+BattleBack=EliteD
+MapPosition=0,17,10
+[060]
+# Dojo Batalla
+MapPosition=0,17,10
+[061]
+# Campo Dojo Batalla
+BattleBack=EliteB
+MapPosition=0,17,10
+[062]
+# Fábrica Batalla
+MapPosition=0,17,10
+[063]
+# Intro Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[064]
+# Campo Fábrica Batalla
+BattleBack=EliteC
+MapPosition=0,17,10
+[065]
+# Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[066]
+# Zona Safari
+Outdoor=true
+MapPosition=0,12,12
+ShowArea=true
+[067]
+# Entrada Zona Safari
+MapPosition=0,12,12
+[068]
+# Zona Safari
+Outdoor=true
+BattleBack=Forest
+MapPosition=0,12,12
+ShowArea=true
+SafariMap=true
+[069]
+# Ruta 8
+DiveMap=70
+Outdoor=true
+BattleBack=Field
+MapPosition=0,13,13
+ShowArea=true
+HealingSpot=0,0,0
+[070]
+# Fondo Marino
+MapPosition=0,13,13
+[071]
+# Puerto
+MapPosition=0,13,13
+[072]
+# Isla Daroxy
+Outdoor=true
+MapPosition=0,18,17
+ShowArea=true
+Weather=Storm,50
+[073]
+# Isla Faraday
+Outdoor=true
+MapPosition=0,22,16
+ShowArea=true
+[074]
+# Entrada Ruta Ciclista
+MapPosition=0,12,10
+Bicycle=true
+[075]
+# Región Tiall
+Outdoor=true
+MapPosition=1,13,16
+HealingSpot=0,0,0
+[076]
+# Hogar de \PN
+MapPosition=1,2,16
+HealingSpot=48,28,10
+[077]
+# Casa de Chico Spawn
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[078]
+# Laboratorio Spawn
+BattleBack=InteriorLab
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[079]
+# Ruta 1
+WildBattleBGM=Wild Battle.ogg
+SnapEdges=true
+Outdoor=true
+BattleBack=Field
+MapPosition=1,4,16
+Bicycle=true
+ShowArea=true
+HealingSpot=76,22,5
+[080]
+# Ciudad Diamante
+WildBattleBGM=Wild Battle.ogg
+SnapEdges=true
+Outdoor=true
+BattleBack=Maicra
+MapPosition=1,6,16
+Bicycle=true
+ShowArea=true
+HealingSpot=86,7,5
+Weather=Sandstorm,100
+[081]
+# Ruta 2
+WildBattleBGM=Wild Battle.ogg
+SnapEdges=true
+Outdoor=true
+BattleBack=Field
+MapPosition=1,6,14
+Bicycle=true
+ShowArea=true
+HealingSpot=86,7,5
+[082]
+# Casa Flores
+MapPosition=1,6,16
+HealingSpot=0,0,0
+[083]
+# Casa Pareada 1
+MapPosition=1,6,16
+HealingSpot=0,0,0
+[084]
+# Casa Pareada 2
+MapPosition=1,6,16
+HealingSpot=0,0,0
+[085]
+# Casa Arriba
+MapPosition=1,6,16
+HealingSpot=0,0,0
+[086]
+# Centro Pokémon
+MapPosition=1,6,16
+HealingSpot=0,0,0
+[087]
+# Tienda Pokémon
+MapPosition=1,6,16
+HealingSpot=0,0,0
+[088]
+# Gimnasio Diamante
+Outdoor=true
+BattleBack=gymfedo
+MapPosition=1,6,16
+HealingSpot=86,7,5
+Weather=Sandstorm,100
+[089]
+# Rancho Boht
+SnapEdges=true
+Outdoor=true
+BattleBack=granja
+MapPosition=1,6,12
+Bicycle=true
+ShowArea=true
+HealingSpot=86,7,4
+[090]
+# Guardería Pokémon
+MapPosition=1,6,12
+HealingSpot=0,0,0
+[091]
+# Casa Azul 1
+MapPosition=1,6,12
+HealingSpot=0,0,0
+[092]
+# Casa Azul2
+MapPosition=1,6,12
+HealingSpot=0,0,0
+[093]
+# BodegaRancho1
+MapPosition=1,6,12
+HealingSpot=0,0,0
+[094]
+# Casa Dueño
+BattleBack=granja
+MapPosition=1,6,12
+HealingSpot=86,7,5
+[095]
+# Ruta 3
+SnapEdges=true
+Outdoor=true
+BattleBack=field
+MapPosition=1,6,10
+Bicycle=true
+ShowArea=true
+HealingSpot=86,7,4
+[096]
+# Ciudad Azulina
+SnapEdges=true
+Outdoor=true
+BattleBack=Water
+MapPosition=1,6,8
+Bicycle=true
+ShowArea=true
+HealingSpot=100,7,4
+[097]
+# Casazul1
+MapPosition=1,6,8
+HealingSpot=0,0,0
+[098]
+# Casazul2
+MapPosition=1,6,8
+HealingSpot=0,0,0
+[099]
+# Casazul3
+MapPosition=1,6,8
+HealingSpot=0,0,0
+[100]
+# Centro Pokémon
+MapPosition=1,6,8
+HealingSpot=0,0,0
+[101]
+# Tienda Pokémon
+MapPosition=1,6,8
+HealingSpot=0,0,0
+[102]
+# Gimnasio Azulina
+BattleBack=GymAwa
+MapPosition=1,6,8
+HealingSpot=100,7,6
+[103]
+# Ruta 4
+SnapEdges=true
+Outdoor=true
+BattleBack=fieldeve
+MapPosition=1,6,7
+Bicycle=true
+ShowArea=true
+HealingSpot=100,7,5
+Weather=HeavyRain,100
+[104]
+# Ciudad Reslin
+SnapEdges=true
+Outdoor=true
+BattleBack=Ciudad
+MapPosition=1,6,5
+Bicycle=true
+ShowArea=true
+HealingSpot=105,7,5
+[105]
+# Centro Pokémon
+MapPosition=1,6,5
+HealingSpot=0,0,0
+[106]
+# Tienda Pokémon
+MapPosition=1,6,5
+HealingSpot=0,0,0
+[107]
+# CasaReslin1
+MapPosition=1,6,5
+HealingSpot=0,0,0
+[108]
+# CasaReslin2
+MapPosition=1,6,5
+HealingSpot=0,0,0
+[109]
+# CasaReslin3
+MapPosition=1,6,5
+HealingSpot=0,0,0
+[110]
+# CasaReslin4
+MapPosition=1,6,5
+HealingSpot=0,0,0
+[111]
+# Ruta 5
+SnapEdges=true
+Outdoor=true
+BattleBack=field
+MapPosition=1,9,5
+Bicycle=true
+ShowArea=true
+HealingSpot=105,7,5
+[112]
+# Gimnasio Reslin
+BattleBack=Gymkris
+MapPosition=1,6,5
+HealingSpot=105,0,0
+[113]
+# Bosque Gatcha
+SnapEdges=true
+Outdoor=true
+BattleBack=forest
+MapPosition=1,13,5
+Bicycle=true
+ShowArea=true
+HealingSpot=105,7,5
+[114]
+# Ruta 6
+SnapEdges=true
+Outdoor=true
+BattleBack=FieldEve
+MapPosition=1,16,5
+ShowArea=true
+HealingSpot=105,0,0
+Weather=Rain,100
+[115]
+# Ciudad Karuta
+SnapEdges=true
+Outdoor=true
+MapPosition=1,20,5
+Bicycle=true
+ShowArea=true
+HealingSpot=116,7,5
+[116]
+# Centro Pokémon
+MapPosition=1,20,5
+HealingSpot=116,8,6
+[117]
+# Casino
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[118]
+# Tienda Bicicleta
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[119]
+# Cartas
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[120]
+# Centro Comercial PB
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[121]
+# Centro Comercial P1
+MapPosition=1,20,5
+[122]
+# Centro Comercial P2
+MapPosition=1,20,5
+[123]
+# Centro Comercial P3
+MapPosition=1,20,5
+[124]
+# Centro Comercial P4
+MapPosition=1,20,5
+[125]
+# Centro Comercial Azotea
+MapPosition=1,20,5
+[126]
+# Centro Comercial Ascensor
+MapPosition=1,20,5
+[127]
+# Museo Pokémon
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[128]
+# Departamentos
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[129]
+# P2
+MapPosition=1,20,5
+[130]
+# P3
+MapPosition=1,20,5
+[131]
+# P4
+MapPosition=1,20,5
+[132]
+# P5
+MapPosition=1,20,5
+[133]
+# P6
+MapPosition=1,20,5
+[134]
+# P7
+MapPosition=1,20,5
+[135]
+# Azotea
+SnapEdges=true
+MapPosition=1,20,5
+[136]
+# Gimnasio Karuta
+BattleBack=Gymkaruta
+MapPosition=1,20,5
+HealingSpot=0,0,0
+[137]
+# Ruta 7
+SnapEdges=true
+Outdoor=true
+MapPosition=1,20,7
+Bicycle=true
+ShowArea=true
+HealingSpot=116,8,6
+[138]
+# Ciudad M.A.S.
+SnapEdges=true
+Outdoor=true
+BattleBack=Ciudad
+MapPosition=1,20,9
+Bicycle=true
+ShowArea=true
+HealingSpot=142,7,5
+[139]
+# Casa M.A.S 1
+MapPosition=1,20,9
+HealingSpot=0,0,0
+[140]
+# Casa M.A.S 2
+MapPosition=1,20,9
+HealingSpot=0,0,0
+[141]
+# Casa M.A.S 3
+MapPosition=1,20,9
+HealingSpot=0,0,0
+[142]
+# Centro Pokémon
+MapPosition=1,20,9
+HealingSpot=0,0,0
+[143]
+# Tienda Pokémon
+MapPosition=1,20,9
+HealingSpot=0,0,0
+[144]
+# Gimnasio M.A.S.
+BattleBack=Gymmas
+MapPosition=1,20,9
+HealingSpot=142,7,6
+DarkMap=true
+[145]
+# Ruta 8
+SnapEdges=true
+Outdoor=true
+MapPosition=1,20,12
+Bicycle=true
+ShowArea=true
+HealingSpot=142,7,5
+[146]
+# NPC Quickbattle
+[147]
+# Ciudad Raíl
+SnapEdges=true
+Outdoor=true
+BattleBack=ciudad
+MapPosition=1,20,15
+Bicycle=true
+ShowArea=true
+HealingSpot=148,8,6
+[148]
+# Centro Pokémon
+MapPosition=1,20,15
+HealingSpot=0,0,0
+[149]
+# Metro Rail
+SnapEdges=true
+BattleBack=metro
+MapPosition=1,20,15
+ShowArea=true
+HealingSpot=148,7,6
+[150]
+# Casa Mt
+MapPosition=1,20,15
+HealingSpot=0,0,0
+[151]
+# Casa Raíl
+MapPosition=1,20,15
+HealingSpot=0,0,0
+[152]
+# Gimnasio Raíl
+BattleBack=Gymrail
+MapPosition=1,20,15
+HealingSpot=0,0,0
+[153]
+# Ruta 9
+SnapEdges=true
+Outdoor=true
+MapPosition=1,18,15
+Bicycle=true
+ShowArea=true
+HealingSpot=148,8,6
+[154]
+# Mini Cueva
+SnapEdges=true
+BattleBack=cavenew
+MapPosition=1,17,15
+ShowArea=true
+HealingSpot=148,7,6
+[155]
+# Subt. Mini Cueva
+BattleBack=cavenew
+MapPosition=1,17,15
+HealingSpot=148,7,6
+DarkMap=true
+[156]
+# Caverna Rocaterra
+SnapEdges=true
+BattleBack=cavenew
+MapPosition=1,17,15
+ShowArea=true
+HealingSpot=148,7,6
+[157]
+# Subt. Caverna Rocaterra
+SnapEdges=true
+BattleBack=icecave
+MapPosition=1,17,15
+ShowArea=true
+HealingSpot=148,8,6
+[158]
+# Ciudad Triquarta
+SnapEdges=true
+Outdoor=true
+MapPosition=1,15,15
+Bicycle=true
+ShowArea=true
+HealingSpot=160,7,5
+[159]
+# Taller Mecánico
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[160]
+# Centro Pokémon
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[161]
+# Tienda Pokémon
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[162]
+# Casa Triquarta 1
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[163]
+# Casa Triquarta 2
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[164]
+# Casa Triquarta 3
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[165]
+# Casa Triquarta 4
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[166]
+# Casa Triquarta 5
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[167]
+# Casa Triquarta 6
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[168]
+# Gimnasio Triquarta
+BattleBack=Gymtrikuarta
+MapPosition=1,15,15
+HealingSpot=0,0,0
+[169]
+# Ruta 10 Sur
+SnapEdges=true
+Outdoor=true
+BattleBack=AutumnField
+MapPosition=1,15,13
+ShowArea=true
+HealingSpot=160,0,0
+[170]
+# Casa Ruta 10
+MapPosition=1,15,13
+HealingSpot=0,0,0
+[171]
+# Ruta 10 Norte
+SnapEdges=true
+Outdoor=true
+BattleBack=AutumnField
+MapPosition=1,15,11
+ShowArea=true
+HealingSpot=160,0,0
+[172]
+# Ciudad GT
+SnapEdges=true
+Outdoor=true
+BattleBack=ciudadgt
+MapPosition=1,15,9
+Bicycle=true
+ShowArea=true
+HealingSpot=173,8,6
+[173]
+# Centro Pokémon
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[174]
+# Gym GT
+BattleBack=GymGT
+MapPosition=1,15,9
+ShowArea=true
+HealingSpot=173,7,6
+[175]
+# Casa GT Arriba Izq 1
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[176]
+# Casa GT Arriba Izq 3
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[177]
+# test
+[178]
+# Gimnasio GT
+MapPosition=1,15,9
+ShowArea=true
+HealingSpot=0,0,0
+[179]
+# Casa GT Arriba Izq 6
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[180]
+# Casa GT Arriba Izq 7
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[181]
+# Casa GT Arriba Izq 8
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[182]
+# Distrito Gimnasio GT
+SnapEdges=true
+BattleBack=sky
+MapPosition=1,15,9
+ShowArea=true
+HealingSpot=173,7,6
+[183]
+# Casa GT Abajo Izq 4
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[184]
+# Casa GT Abajo Izq 7
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[185]
+# Distrito Pasillo Final
+SnapEdges=true
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[186]
+# Sala Líder
+BattleBack=GymVol
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[187]
+# Casa GT Abajo Izq 5
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[188]
+# Casa GT Abajo Izq 6
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[189]
+# Base Subterránea Lab.
+BattleBack=InteriorLab
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[190]
+# Casa GT Abajo Izq 8
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[191]
+# Casa GT Arriba Der. 1
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[192]
+# Casa GT Arriba Der. 2
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[193]
+# Casa del Cambia Formas
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[194]
+# Casa GT Abajo Der 1
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[195]
+# Base Subterránea Lab. -2
+BattleBack=InteriorLab
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[196]
+# Base Subterránea Lab. -1
+BattleBack=InteriorLab
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[197]
+# Casa GT Abajo Der 4
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[198]
+# Casa GT Abajo Der 5
+MapPosition=1,15,9
+HealingSpot=0,0,0
+[199]
+# Base Subterránea Lab. -3
+BattleBack=InteriorLab
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[200]
+# Base Subterránea Lab. -4
+BattleBack=InteriorLab
+MapPosition=1,2,16
+HealingSpot=0,0,0
+[201]
+# Cueva Bajocero
+SnapEdges=true
+BattleBack=IceCave
+MapPosition=1,17,15
+ShowArea=true
+HealingSpot=148,0,0
+Weather=Blizzard,0
+[202]
+# MAP202
+HealingSpot=0,0,0
+[203]
+# Calle Victoria Este
+SnapEdges=true
+Outdoor=true
+BattleBack=VRoad
+MapPosition=1,12,9
+ShowArea=true
+HealingSpot=173,8,6
+[204]
+# Calle Victoria Oeste
+SnapEdges=true
+Outdoor=true
+BattleBack=VRoad
+MapPosition=1,13,9
+ShowArea=true
+HealingSpot=173,8,6
+[205]
+# Ciudad Liga
+SnapEdges=true
+Outdoor=true
+MapPosition=1,11,9
+ShowArea=true
+HealingSpot=0,0,0
+[206]
+# Sala de prensa
+MapPosition=1,11,9
+HealingSpot=0,0,0
+[207]
+# Oficina de inscripción
+MapPosition=1,11,9
+[208]
+# Centro Pokémon
+MapPosition=1,11,9
+[209]
+# Boutique Pokémon
+MapPosition=1,11,9
+HealingSpot=0,0,0
+[210]
+# Sala de Entrenamiento
+BattleBack=trainingliga
+MapPosition=1,11,9
+HealingSpot=208,10,6
+[211]
+# Sala de descanso
+MapPosition=1,11,9
+[212]
+# Edificio Principal
+MapPosition=1,11,9
+HealingSpot=0,0,0
+[213]
+# Salón Contendiente
+SnapEdges=true
+MapPosition=1,11,9
+HealingSpot=0,0,0
+[214]
+# Pasillo Liga
+MapPosition=1,11,9
+HealingSpot=0,0,0
+[215]
+# Arena
+SnapEdges=true
+BattleBack=Champion
+MapPosition=1,11,9
+ShowArea=true
+HealingSpot=208,10,6
+[216]
+# Casazul4
+[217]
+# Casa GT Arriba Izq 9
+[218]
+# Casa de Hatsune Miku
+[219]
+# Pista Eclosión
+SnapEdges=true
+Outdoor=true
+MapPosition=1,6,12
+Bicycle=true
+ShowArea=true
+HealingSpot=0,0,0
+[220]
+# Casa M.A.S 4
+[221]
+# Isla Batalla
+HealingSpot=0,0,0
+[222]
+# Centro Pokémon
+HealingSpot=0,0,0
+[223]
+# Casa GT Abajo Der 2
+[224]
+# Torre Batalla
+ShowArea=true
+HealingSpot=222,7,6
+[225]
+# Cueva Paradoja
+WildBattleBGM=ParadoxBattle
+SnapEdges=true
+BattleBack=CaveGray
+ShowArea=true
+HealingSpot=222,7,6
+[226]
+# Subterráneo Paradoja
+WildBattleBGM=KoraidonMiraidon
+SnapEdges=true
+BattleBack=cavegray
+MapPosition=1,29,18
+ShowArea=true
+HealingSpot=222,8,6
+[227]
+# Zona Future Paradoja 
+WildBattleBGM=ParadoxBattle
+SnapEdges=true
+BattleBack=CAVEGRAY
+MapPosition=1,29,18
+ShowArea=true
+HealingSpot=222,8,6
+[228]
+# Sala Future
+WildBattleBGM=KoraidonMiraidon
+SnapEdges=true
+BattleBack=CAVEGRAY
+ShowArea=true
+HealingSpot=222,8,6
+[229]
+# Bismark
+[230]
+# Habitación Marineros
+[231]
+# Habitación Capitán
+[232]
+# Novus Servitor
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New.ogg
+WildBattleBGM=WildNew.ogg
+DiveMap=232
+SnapEdges=true
+Outdoor=true
+BattleBack=NewWild
+MapPosition=2,3,4
+ShowArea=true
+HealingSpot=100,7,5
+[233]
+# Vía Ünus
+WildVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=NEWWILD
+MapPosition=2,5,4
+ShowArea=true
+HealingSpot=100,7,5
+[234]
+# ReNovation Geos
+WildVictoryME=Victory New.ogg
+WildBattleBGM=WildNew.ogg
+SnapEdges=true
+Outdoor=true
+MapPosition=2,7,6
+ShowArea=true
+HealingSpot=237,0,0
+[235]
+# Vía Unus
+WildVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New.ogg
+WildBattleBGM=WildNew.ogg
+SnapEdges=true
+Outdoor=true
+BattleBack=NEWWILD
+MapPosition=2,5,4
+ShowArea=true
+HealingSpot=0,7,5
+[236]
+# Casa Karma
+BattleBack=InteriorShip
+MapPosition=2,7,5
+HealingSpot=100,0,0
+[237]
+# Centro Pokémon
+MapPosition=2,7,6
+HealingSpot=0,0,0
+[238]
+# Casa 1
+MapPosition=2,7,6
+HealingSpot=0,0,0
+[239]
+# Casa 2
+MapPosition=2,7,6
+HealingSpot=0,0,0
+[240]
+# Regente Geo
+BattleBack=interiorgeos
+MapPosition=2,7,6
+ShowArea=true
+HealingSpot=237,7,6
+[241]
+# Vía Dúo
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New.ogg
+WildBattleBGM=WildNew.ogg
+SnapEdges=true
+Outdoor=true
+BattleBack=NewWild
+MapPosition=2,7,9
+ShowArea=true
+HealingSpot=237,0,0
+[242]
+# Pilopolis
+SnapEdges=true
+Outdoor=true
+MapPosition=2,7,12
+Bicycle=true
+ShowArea=true
+HealingSpot=243,8,6
+[243]
+# Centro Pokémon
+MapPosition=2,7,12
+HealingSpot=0,0,0
+[244]
+# Regente Pilópolis
+BattleBack=regentefl
+HealingSpot=243,8,7
+[245]
+# Casa 1
+[246]
+# Casa 2
+[247]
+# Vía Trés
+WildVictoryME=Victory New.ogg
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=NEWWILDwater
+MapPosition=2,10,6
+Bicycle=true
+ShowArea=true
+HealingSpot=237,8,6
+[248]
+# Vía Quattuor
+WildVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=NEWWILD
+MapPosition=2,14,8
+ShowArea=true
+HealingSpot=237,7,6
+[249]
+# Vía Quínque
+WildVictoryME=Victory New.ogg
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=FIELD
+MapPosition=2,17,9
+Bicycle=true
+ShowArea=true
+HealingSpot=237,8,7
+[250]
+# Vía Sex
+WildVictoryME=Victory New.ogg
+TrainerVictoryME=Victory - Trainer.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=field
+MapPosition=2,18,11
+Bicycle=true
+ShowArea=true
+HealingSpot=237,8,6
+[251]
+# Claro Oculto
+WildVictoryME=Victory New.ogg
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=oculto
+MapPosition=2,10,6
+Bicycle=true
+ShowArea=true
+HealingSpot=0,8,6
+[252]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=oculto
+MapPosition=2,7,8
+ShowArea=true
+HealingSpot=237,8,7
+[253]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=OCULTO
+MapPosition=2,14,7
+ShowArea=true
+HealingSpot=237,8,6
+[254]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=OCULTO
+MapPosition=2,14,7
+ShowArea=true
+HealingSpot=237,8,7
+[255]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=OCULTO
+MapPosition=2,14,10
+ShowArea=true
+HealingSpot=237,7,6
+[256]
+# Caverna Rho
+WildVictoryME=Victory New.ogg
+WildBattleBGM=WildNew
+SnapEdges=true
+BattleBack=cavenew
+MapPosition=2,14,8
+ShowArea=true
+HealingSpot=237,7,7
+[257]
+# Subterráneo
+WildVictoryME=Victory New.ogg
+WildBattleBGM=WildNew
+BattleBack=cavegray
+MapPosition=2,14,7
+ShowArea=true
+HealingSpot=237,8,6
+DarkMap=true
+[258]
+# Caverna Rho
+WildBattleBGM=WildNew
+SnapEdges=true
+BattleBack=cavenew
+MapPosition=2,14,7
+ShowArea=true
+HealingSpot=237,8,5
+[259]
+# Cámara Regi G
+SnapEdges=true
+BattleBack=CAVEGRAY
+ShowArea=true
+HealingSpot=237,7,6
+DarkMap=true
+[260]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=OCULTO
+MapPosition=2,18,9
+ShowArea=true
+HealingSpot=237,8,7
+[261]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=oculto
+MapPosition=2,16,11
+ShowArea=true
+HealingSpot=237,8,6
+[262]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=oculto
+MapPosition=2,16,11
+ShowArea=true
+HealingSpot=237,8,6
+[263]
+# Bosque Lambda
+SnapEdges=true
+Outdoor=true
+BattleBack=lambda
+MapPosition=2,17,11
+Bicycle=true
+ShowArea=true
+HealingSpot=237,8,6
+[264]
+# Isla Daroxy
+SnapEdges=true
+Outdoor=true
+BattleBack=xenofield
+ShowArea=true
+HealingSpot=243,8,6
+[265]
+# Projectum Mundi
+SnapEdges=true
+Outdoor=true
+MapPosition=2,22,9
+Bicycle=true
+ShowArea=true
+HealingSpot=266,8,6
+[266]
+# Centro Pokémon
+MapPosition=2,22,9
+HealingSpot=0,0,0
+[267]
+# Casas Mundi
+MapPosition=2,22,9
+[268]
+# Regente Mundi
+BattleBack=rcatrix
+MapPosition=2,22,9
+ShowArea=true
+HealingSpot=266,7,6
+[269]
+# Vía Novem
+WildVictoryME=Victory New.ogg
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=esnowy
+MapPosition=2,22,12
+Bicycle=true
+ShowArea=true
+HealingSpot=266,8,6
+Weather=Blizzard,100
+[270]
+# Vía Öcto
+WildVictoryME=Victory New.ogg
+TrainerVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=newwild
+MapPosition=2,13,14
+Bicycle=true
+ShowArea=true
+HealingSpot=266,8,6
+Weather=Rain,100
+[271]
+# Caverna Hexalink
+WildVictoryME=Victory New.ogg
+WildBattleBGM=WildNew
+SnapEdges=true
+BattleBack=cavenew
+MapPosition=2,18,11
+ShowArea=true
+HealingSpot=266,7,6
+[272]
+# Bosque Upsilon
+WildBattleBGM=WildNew.ogg
+SnapEdges=true
+BattleBack=Lambda
+MapPosition=2,14,14
+ShowArea=true
+HealingSpot=266,0,0
+[273]
+# Caverna Hexalink
+WildVictoryME=Victory New.ogg
+SnapEdges=true
+MapPosition=2,16,14
+HealingSpot=266,8,7
+[274]
+# Bosque Upsilon
+SnapEdges=true
+BattleBack=Lambdark
+MapPosition=2,14,14
+HealingSpot=266,0,0
+[275]
+# Vía Septem
+WildVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=newwild
+MapPosition=2,9,12
+ShowArea=true
+HealingSpot=243,7,6
+[276]
+# Vía Septem
+WildVictoryME=Victory New.ogg
+TrainerBattleBGM=Battle Trainer New
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+BattleBack=mydesert
+MapPosition=2,11,13
+ShowArea=true
+HealingSpot=266,7,6
+Weather=Sandstorm,100
+[277]
+# Claro Oculto
+SnapEdges=true
+Outdoor=true
+BattleBack=oculto
+MapPosition=2,9,12
+ShowArea=true
+HealingSpot=266,7,6
+[278]
+# Caverna Oykorg
+DiveMap=279
+SnapEdges=true
+MapPosition=2,11,13
+ShowArea=true
+HealingSpot=266,7,6
+[279]
+# Caverna Oykorg
+SnapEdges=true
+BattleBack=undawota
+MapPosition=2,11,13
+HealingSpot=266,8,6
+[280]
+# Caverna Oykorg
+SnapEdges=true
+BattleBack=cavegrou
+MapPosition=2,11,13
+HealingSpot=266,8,6
+[281]
+# Cueva Nartaeh
+SnapEdges=true
+MapPosition=2,11,13
+ShowArea=true
+[282]
+# Cueva Nartaeh
+SnapEdges=true
+BattleBack=CAVEDARKY
+HealingSpot=266,7,6
+[283]
+# Cueva Orkezihser
+SnapEdges=true
+BattleBack=cavewhite
+MapPosition=2,11,14
+ShowArea=true
+HealingSpot=266,7,6
+[284]
+# Sendero Lisardggy
+SnapEdges=true
+Outdoor=true
+BattleBack=FIELD
+MapPosition=2,9,12
+ShowArea=true
+HealingSpot=266,8,6
+[285]
+# Tronco Arbóreo
+BattleBack=INTERIORMARRON
+MapPosition=2,9,12
+ShowArea=true
+HealingSpot=266,7,6
+[286]
+# Copa Arbórea
+SnapEdges=true
+BattleBack=interiorverde
+MapPosition=2,9,12
+ShowArea=true
+HealingSpot=266,7,6
+[287]
+# Raíz Arbórea
+SnapEdges=true
+BattleBack=SUB
+MapPosition=2,9,12
+ShowArea=true
+HealingSpot=266,8,6
+[288]
+# Cueva Eicnaid
+SnapEdges=true
+BattleBack=CAVENEW
+MapPosition=2,11,14
+ShowArea=true
+HealingSpot=266,8,6
+[289]
+# Ultra Jungla
+SnapEdges=true
+Outdoor=true
+BattleBack=forest
+MapPosition=2,19,14
+ShowArea=true
+HealingSpot=266,8,6
+[290]
+# Zona Umbra
+SnapEdges=true
+BattleBack=darrk
+ShowArea=true
+[291]
+# Senda Relincho
+SnapEdges=true
+Outdoor=true
+BattleBack=ESNOWY
+ShowArea=true
+HealingSpot=237,7,7
+[292]
+# Claro Oculto
+SnapEdges=true
+BattleBack=oculto
+MapPosition=2,7,11
+ShowArea=true
+HealingSpot=237,8,6
+[293]
+# Laberinto Arcaico
+SnapEdges=true
+Outdoor=true
+BattleBack=oculto
+MapPosition=2,5,4
+ShowArea=true
+HealingSpot=237,8,6
+[294]
+# Vía Decem
+WildVictoryME=Victory New.ogg
+WildBattleBGM=WildNew.ogg
+SnapEdges=true
+Outdoor=true
+BattleBack=Esnowy
+MapPosition=2,23,15
+ShowArea=true
+HealingSpot=266,0,0
+Weather=Snow,100
+[295]
+# Grex Yucatensis
+WildVictoryME=Victory New.ogg
+WildBattleBGM=WildNew
+SnapEdges=true
+Outdoor=true
+MapPosition=2,11,16
+Bicycle=true
+ShowArea=true
+HealingSpot=296,8,6
+[296]
+# Centro Pokémon
+MapPosition=2,11,16
+HealingSpot=0,0,0
+[297]
+# Tienda Pokémon
+MapPosition=2,11,16
+HealingSpot=0,0,0
+[298]
+# Casa
+MapPosition=2,11,16
+[299]
+# Regente Yucatensis
+BattleBack=yuca
+MapPosition=2,11,16
+[300]
+# Resolutionis Exitus
+SnapEdges=true
+Outdoor=true
+BattleBack=resolut
+MapPosition=2,24,15
+ShowArea=true
+HealingSpot=266,8,6
+Weather=Snow,100
+[301]
+# Altar Drax
+SnapEdges=true
+BattleBack=drax
+MapPosition=2,24,15
+ShowArea=true
+HealingSpot=296,7,6
+Weather=Snow,100
+[302]
+# Casa GT Abajo Der 3
+[303]
+# Sala de Sparring
+SnapEdges=true
+MapPosition=1,15,9
+ShowArea=true
+[304]
+# Vagón Evocarrecuerdos
+SnapEdges=true
+BattleBack=ER
+MapPosition=1,20,15
+ShowArea=true
+[305]
+# Casa Pikachu
+SnapEdges=true
+MapPosition=1,20,15
+[306]
+# Octomina
+SnapEdges=true
+MapPosition=2,20,14
+ShowArea=true
+[307]
+# Octomina Base
+SnapEdges=true
+MapPosition=2,20,14
+ShowArea=true
+[308]
+# Octomina Capa -1
+SnapEdges=true
+MapPosition=2,20,14
+ShowArea=true
+[309]
+# Octomina Capa -2
+SnapEdges=true
+MapPosition=2,20,14
+ShowArea=true
+[310]
+# Octomina Capa -3
+SnapEdges=true
+MapPosition=2,20,14
+ShowArea=true
+[311]
+# Octomina Capa -4
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[312]
+# Octomina Capa -5
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[313]
+# Octomina Capa -6
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[314]
+# Octomina Capa -7
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[315]
+# Octomina Capa -8
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[316]
+# Octomina Capa -9
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[317]
+# Octomina Capa -10
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[318]
+# Octomina Capa -11
+MapPosition=2,20,14
+ShowArea=true
+DarkMap=true
+[319]
+# Silo

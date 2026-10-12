@@ -202,6 +202,7 @@ ebf09c7ae935d55662f23fcc9ea66b9452e12cb2	4595119	Audio/BGM/Zacian.ogg
 f902a54093c5056e80f34b6dfc3ac7fdc1510528	2892696	Audio/BGM/arceus.ogg
 e081736e4e10950766d959acd69ffbb6bd7515dd	2853416	Audio/BGM/battle tower theme.ogg
 d4bd0411dc7aa3a952aad356fdd990cb3f654cd1	2172705	Audio/BGM/damouno.ogg
+ab17096eadd90af233dd943c062aec0c7c410f5d	48	Audio/BGM/desktop.ini
 2cba7d541ed3508f1a3605158929b0b035b3e43c	2960353	Audio/BGM/eternatus.ogg
 137974b77adeefb11eabb597ede0d51ba83c565d	2190144	Audio/BGM/gymrat.ogg
 dfa7e01bbe51133ffbdc349d853b9941aabc5615	2199165	Audio/BGM/hooh.ogg
@@ -2820,6 +2821,7 @@ e5843540aa940cc6103af0fe37d5f17e4cc349ef	15716	Audio/SE/buzzer.ogg
 5a1227e2c8c9ec4d4fbba7257dcf3ab9cd4a372a	19056	Audio/SE/computeropen.ogg
 b75e317a622e6afc7fc19dfcc65fb36b131dcddd	97797	Audio/SE/crowdsurprise.ogg
 2ce1bf0ba8fcf0aa1a029c39e7d1050b600d4ad6	21661	Audio/SE/decrease.ogg
+ab17096eadd90af233dd943c062aec0c7c410f5d	48	Audio/SE/desktop.ini
 47b4c7fbede4eff01b9e970d785c7b45409bc6dc	10919	Audio/SE/dexselect.ogg
 9979a213f8ac77fd15db775217d37172766b1148	10071	Audio/SE/expfull.ogg
 bf5363c6e3e5cd31e29b22beae34a7eddd57b441	15312	Audio/SE/faint.ogg
@@ -3224,6 +3226,27 @@ f7def12254cbeedf956bee0ec8fe954f1c019118	3340	Data/Map317.rxdata
 a05c4a5a151342267a5aee183ff795aa8950c126	15528	Data/MapInfos.rxdata
 ccfb3ca8dfac4b2dfda267be6af5dabea0bc9221	12303621	Data/PkmnAnimations.rxdata
 d787d5d8fbd03d333337c0a5e66338b775acda45	1069952	Data/Scripts.rxdata
+e07a73b07f51eda20f4efa1b61ced2ef742bb5c5	1045971	Data/Scripts.rxdata.bak-2026-10-10
+892c529404b9f68650a8366905724058e30d6707	1045963	Data/Scripts.rxdata.bak-2026-10-10-b
+8a0ab1350eab4b85730f82d39baa30a7a8854403	1045956	Data/Scripts.rxdata.bak-2026-10-10-c
+2e51e67be9529c61634902228a8c518ecc7a1ce6	1046055	Data/Scripts.rxdata.bak-2026-10-10-d
+9009c17abff46c4da204532e160274d49eb40044	1046045	Data/Scripts.rxdata.bak-2026-10-11
+cac78af7216110a738fb547a7b8e68d5e6e197a6	1046340	Data/Scripts.rxdata.bak-2026-10-11-b
+926dfee59df9bf1baa179ca9c55c78b1d70d237b	1054447	Data/Scripts.rxdata.bak-2026-10-11-c
+afa9c2af67c0d0ffc2de434583c0f64cdfd6d13e	1054650	Data/Scripts.rxdata.bak-2026-10-11-d
+655153353eb5548fbb4417da3acc0f3707bcecc8	1054688	Data/Scripts.rxdata.bak-2026-10-11-e
+88742220a3ec9a14c217e7c9df19db1f76e22fa3	1054685	Data/Scripts.rxdata.bak-2026-10-11-f
+14b84b6d6c1b5dbf1c9cb0cb83176e96f02ab3df	1056955	Data/Scripts.rxdata.bak-2026-10-11-g
+d4ba4ad73181e7e70be14272b7a311c94ef51c6e	1057037	Data/Scripts.rxdata.bak-2026-10-11-h
+0f45ec0d3c2c82868c1265303be6c5116f8db700	1058046	Data/Scripts.rxdata.bak-2026-10-11-i
+c0044117381c2a019d3225619d78ea4df052c2bf	1058025	Data/Scripts.rxdata.bak-2026-10-11-j
+c05fedd9528d3c85915c2dd43cb049dab917cb94	1058249	Data/Scripts.rxdata.bak-2026-10-11-k
+e002db6310cb8e4fb86ab8704ecbfed624dc8765	1063018	Data/Scripts.rxdata.bak-2026-10-11-l
+7b00a2a2159b4f969558c82ccf62974f9322e1f8	1065288	Data/Scripts.rxdata.bak-2026-10-11-m
+31f2c9756b032fa5b1e0b2a5875db1122a3b3dd4	1066903	Data/Scripts.rxdata.bak-2026-10-11-n
+6c3f423b9cbc069584011a85438caf82f1edf5e1	1067167	Data/Scripts.rxdata.bak-2026-10-11-o
+4051fb13e35d38ea569bac02e88fa26afb6d355b	1067628	Data/Scripts.rxdata.bak-2026-10-11-p
+86e41fdd77fcb81de55dccf88cfce529e0d706b6	1067789	Data/Scripts.rxdata.bak-2026-10-11-q
 4a922d69ef4c64db434acbb0a239dd4dc2702485	19909	Data/Scripts/001_Settings.rb
 0c838fa0ef0df879e58071efd8736bb97eb4d500	13583	Data/Scripts/001_Technical/001_Ruby Utilities.rb
 c3f40f847578bf3e4a35932154231f0758e2c38d	13097	Data/Scripts/001_Technical/002_RGSS2Compatibility.rb
@@ -3483,6 +3506,7 @@ d9bd3526099d335d192e97c503f107f02c8aa2ea	245	Data/Weapons.rxdata
 f2a9a24317e3ad1958356ddccfa079459f734b34	76896	Data/attacksRS.dat
 d6467b34d01440fe6204c00070ad4372c6cbf59b	1035	Data/berryplants.dat
 3d660eaa554c973988bce5f2ec6eae9c57800511	244	Data/connections.dat
+cc8c1ee50e4b02ab1c0c69c44b9b077a8acb4dbc	701914	Data/debuglog.txt
 3d851d8c7eea41158db73817d6c2ab17d174a3a9	80636	Data/dexdata.dat
 601da444ccf55593a870e9b0419bd619960a4f9e	15922	Data/eggEmerald.dat
 34aded3b2e9e0b5dab573fe29da0ccadd4c36018	13985	Data/encounters.dat
@@ -3497,6 +3521,7 @@ a68ce93204cf256ffa828403a87d19f59c7b112b	12250	Data/moves.dat
 6b44dd833d9ff6e4029591d9b82ddf8a4a3d285f	4252	Data/regionals.dat
 d08d539d957b00671723d7e471ffc4a26776b688	3195	Data/rsattacks.dat
 0ba94359df472e358cfe3fa92192fc82832db5b6	4	Data/shadowmoves.dat
+e2135b459a631257b21cd145d20b530ad1719ddc	4	Data/slot_config.dat
 c4a39b8163c34c3fb80aec7a5a21ea79220a2231	105032	Data/tm.dat
 c63f819b19df226574d4c20fb054c602b21a758d	3453	Data/townmap.dat
 da4542c2ce1f29cd2e988e46b9117577c0db3a70	303966	Data/trainerlists.dat
@@ -6241,6 +6266,7 @@ b6f6651c23fd45925f31e577cd3d9a10e98f8e92	40758	Graphics/Battlers/Back/Female/678
 2e09be6b04a878180af5bb2b99dca115b384e244	48679	Graphics/Battlers/Back/Female/902.png
 d532b8a7add5990d7867f7c5e55775bbf5307380	49669	Graphics/Battlers/Back/Female/902f.png
 cd85f0c690822614bc7163a48fd744e855871e1b	2582	Graphics/Battlers/Back/Female/deskto.ini
+b43bca6c2b5d41ac26cb39d42f46f90cc1d0f4b7	70	Graphics/Battlers/Back/Female/desktop.ini
 21e951c6bf8428ced7c1e217f2595a1cee3c8475	118	Graphics/Battlers/Back/deskto.ini
 999fdb738202cdc72481f02c3c497821103ee9b1	363	Graphics/Battlers/BackShiny/000.png
 baef3e07cb249119340728b15c7338e53a53242c	4660	Graphics/Battlers/BackShiny/001.png
@@ -7905,6 +7931,7 @@ d601e448a2a5338d2dcb9ca954f9c88ccf30ac05	16780	Graphics/Battlers/BackShiny/Femal
 acdc8147b493c513dacded2a984fd7e334bc7b18	6845	Graphics/Battlers/BackShiny/Female/699.png
 4a5989ee01442134d8c77d8b65caf690a9e8018b	25888	Graphics/Battlers/BackShiny/Female/876.png
 a7088a46c3aaec0d9dacb344ea1580e32495c3bf	26831	Graphics/Battlers/BackShiny/Female/902.PNG
+b57c93f9f0319641fe32bd5f0c6d497d035cda4b	8164	Graphics/Battlers/BackShiny/desktop.ini
 d67bb8508f67e26f7d94bc3a0991d244739a4d9f	1882	Graphics/Battlers/Eggs/000.png
 04b680e8da19d0e378467733ec76ec51d3c57be1	896	Graphics/Battlers/Eggs/000_icon.png
 6b1ac6211656b9547c0bdd20697e7c816e264686	35790	Graphics/Battlers/Eggs/000cracks.png
@@ -11319,6 +11346,8 @@ a056ed5f4ce55195ba2b65131b0eb7e8426a7425	4960	Graphics/Battlers/FrontShiny/Femal
 1a12e2d35d30825698471952ee1bbd6ee584b98e	50770	Graphics/Battlers/FrontShiny/Female/678.png
 3aaa0f07f664396eab84831fe929e304e2c52d82	30563	Graphics/Battlers/FrontShiny/Female/876.png
 31c7e68b1dfc64ac15839f700c802cc9e80e6fc2	22960	Graphics/Battlers/FrontShiny/Female/902.PNG
+6ad097b6cd876cf5140efc0b98274fac0de133f5	62	Graphics/Battlers/FrontShiny/Female/desktop.ini
+831cf68e846661958fd3756aba969fc4a1f5925f	78	Graphics/Battlers/FrontShiny/desktop.ini
 2a6cb1d5a415ed1a6ead60e9be469454470b6403	801	Graphics/Battlers/Trainers/bakaptrainer041.png
 62498c5586576f1f14eb29f120736ea535590848	6756	Graphics/Battlers/Trainers/trainer000.png
 743db74c627a3865d5af95276cefda01f3880f0b	1957	Graphics/Battlers/Trainers/trainer001 - copia.png
@@ -11842,6 +11871,7 @@ e22de79a5e4f277d84e3a69213b6f9afc1cabd63	8675	Graphics/Characters/boy_surf_offse
 18e16e35bf1e5be189c6558eeab723c3a0a3049e	9537	Graphics/Characters/chenoms sangre.png
 d017d36e55a0fd5b6f89a9a7e7b85de0da8b2180	8733	Graphics/Characters/chenoms sangre2.png
 272aee054260b0d7cc629fc5840c357a3b13e61c	3339	Graphics/Characters/cow.png
+4ce3829300087fe537d3af5ecb627aaa6570ae74	444	Graphics/Characters/desktop.ini
 90dec72d9a55e2d6c1d038dc2015dda152bdb454	947	Graphics/Characters/doors1.png
 30cc52d74b2462b3299a441e8a09677b568dfffd	951	Graphics/Characters/doors2.png
 9463845102feb06b2f50d682bf3015cc5f5bb677	1053	Graphics/Characters/doors3.png
@@ -15705,6 +15735,7 @@ fc7ab6747bef4a63498b91472dae104b2f35cb13	144	Graphics/Pictures/Pokegear/pokegear
 18f44006f2755d121bee484ca405d1cd4b95d10b	6194	Graphics/Pictures/Psypionstarter.png
 979b2dd56a82063ffec27c113090a24c1131d860	28848	Graphics/Pictures/Semifinal.png
 52f95b93bb702f7e2507336cfc33bb09a0d3a533	187	Graphics/Pictures/Slot Machine/ReelOverlay.png
+aab06a1755930b758daab32dc0a6f023f0018dca	7168	Graphics/Pictures/Slot Machine/Thumbs.db
 4aa2667f2325f34a37de92c43b2222ae6ddbaa6c	4306	Graphics/Pictures/Slot Machine/bg.png
 15e65770f654f6cd982216b0d6ffdd1ce81fc5fd	1367	Graphics/Pictures/Slot Machine/bonus.png
 b56633b6f7d9afe8a3d6d9302e0b1a28a84f6a22	331	Graphics/Pictures/Slot Machine/button.png
@@ -15813,6 +15844,7 @@ f8117e6d24b30c151fc4a708ff953841dd9af154	268	Graphics/Pictures/Summary/summaryba
 c515396e52b24697d6ac4f0356f86bb5edbf4530	6522	Graphics/Pictures/Summary/summaryball24.png
 0be896f4421374bad63602f3e3c0a6b245e65486	1643	Graphics/Pictures/Summary/summarybg.png
 f032e2c7bb5e23d45fcc0f4b916bd5ce3ae94a0e	1335	Graphics/Pictures/Summary/summarymovesel.PNG
+5d330a8c54cc0079d9495baf8a8d61ad0fdc7f89	7168	Graphics/Pictures/Thumbs.db
 12a426c249e5dad88b87642f57b2820b4538307e	1779	Graphics/Pictures/Tile Puzzle/bg.png
 4c88e456fca16691a8b7b446d08f7ddb0b706337	1779	Graphics/Pictures/Tile Puzzle/bgAerodactyl.png
 e4b3515f7eb3dc13fa9680b3ff2ec714ceea4a4b	1779	Graphics/Pictures/Tile Puzzle/bgHooh.png
@@ -15839,6 +15871,7 @@ b4b76ba93c490c1ccb47642ed00ec6102cedbf6f	1568	Graphics/Pictures/Tile Puzzle/tile
 0fc4b8f14a1cf321e64c81632ec967bc75514ab9	1782	Graphics/Pictures/Tile Puzzle/tilesOmanyte_1.png
 ab451ba21dd4023ab05c0d17de60ab5f8061f9db	1856	Graphics/Pictures/Tile Puzzle/tilesOmanyte_2.png
 13805b30017fea2fd050e2316992d6c31950cfc8	1794	Graphics/Pictures/Tile Puzzle/tilesOmanyte_3.png
+634fc81fbe67dc3496fa7ec61fb2ac2b38d63229	26624	Graphics/Pictures/Voltorb Flip/Thumbs.db
 28aea1ef34434d5116d618bda6787b0da27190ff	2970	Graphics/Pictures/Voltorb Flip/boardbg.png
 69828d8ee9615615ad586adf88ac301b56c37b15	230	Graphics/Pictures/Voltorb Flip/cursor.png
 ab9f613c26892d55184da18cf67565b1d0594add	1742	Graphics/Pictures/Voltorb Flip/explosion.png
@@ -16428,7 +16461,7 @@ fe81d6ff6c68b1bf29c966359efaabfba26a8257	854	PBS/connections.txt
 a3417a4dc94be065a7df2bba1ed4dac927b89b05	18062	PBS/fancycupsinglepm.txt
 7b3bc7504b9bdaacf3a0dc2eacc61998ef859cf4	67395	PBS/fancycupsingletr.txt
 ca77db9c7d488f092e90288d128742268e4e56ac	82902	PBS/fancycuptr.txt
-e2118e5536557bf28aa79f455ac4964ee7f5f14a	126374	PBS/items.txt
+32d026a9ac780e83e27b9cf2bad814f64e00f339	126454	PBS/items.txt
 cc6d8fd145f7d72dbdc1b262d74ffaebf94edfd0	26340	PBS/littlecuppm.txt
 2384827b0618fe3ab34cc98e02e6e069112dbc5d	35754	PBS/littlecuptr.txt
 2ee54fdc71a14feca61ed668fbe2a95def9af6b1	4944	PBS/metadata - copia.txt
@@ -16454,6 +16487,8 @@ eced5206f4f020e88b02bd76cf33c07bce81b1ec	162	PBS/~$okemon.txt
 b902706b3260ba078c79b1f032bb9a860b92b469	778752	RGSS102E.dll
 cad100de53653b469d834b51611a8cd42a8f9992	781312	RGSS102J.dll
 f7a93d01ffdd225021c053e176216c09009d8935	758272	RGSS104E.dll
+9620194b2b07d3c66b0f44049d81df3bf0db6694	1345	discord_log.txt
+ccd38697d57d57f2868c28bed7b733b1511afe29	143	discord_state.json
 12c0cd6548bfb34e66037fe9d46a431c33937e5b	401146	fluidsynth.dll
 a363f6df112da6a2141106d1ae0b2392dd633f7c	32768	gif.dll
 0e3547fac63f59e4565481ee91f1f2572cc21165	80216	icono_joiplay.png

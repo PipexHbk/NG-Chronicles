@@ -7,3 +7,12 @@
 2026-10-11 11:50:57 Actividad enviada: Ciudad Diamante / Medallas: 1 (pid 100016)
 2026-10-11 11:51:12 Actividad enviada: Pueblo Spawn / Medallas: 1 (pid 100016)
 2026-10-11 11:52:03 Actividad enviada: Ruta 1 / Medallas: 1 (pid 100016)
+2026-10-11 22:29:29 Conectado a discord-ipc-0
+2026-10-11 22:29:29 Actividad enviada: En el menú principal / Jugando (pid 121172)
+2026-10-11 22:29:44 Actividad enviada: Ruta 1 / Medallas: 1 (pid 121172)
+2026-10-11 22:29:59 Actividad enviada: Pueblo Spawn / Medallas: 1 (pid 121172)
+2026-10-11 22:30:34 Actividad enviada: Ruta 1 / Medallas: 1 (pid 121172)
+2026-10-11 22:30:49 Actividad enviada: Ciudad Diamante / Medallas: 1 (pid 121172)
+2026-10-11 22:34:25 Actividad enviada: Ruta 2 / Medallas: 1 (pid 121172)
+2026-10-11 22:35:29 Actividad enviada: Ciudad Diamante / Medallas: 1 (pid 121172)
+2026-10-11 22:35:44 Actividad enviada: Pueblo Spawn / Medallas: 1 (pid 121172)

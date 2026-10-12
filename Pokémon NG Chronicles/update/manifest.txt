@@ -11348,7 +11348,6 @@ a056ed5f4ce55195ba2b65131b0eb7e8426a7425	4960	Graphics/Battlers/FrontShiny/Femal
 31c7e68b1dfc64ac15839f700c802cc9e80e6fc2	22960	Graphics/Battlers/FrontShiny/Female/902.PNG
 6ad097b6cd876cf5140efc0b98274fac0de133f5	62	Graphics/Battlers/FrontShiny/Female/desktop.ini
 831cf68e846661958fd3756aba969fc4a1f5925f	78	Graphics/Battlers/FrontShiny/desktop.ini
-2a6cb1d5a415ed1a6ead60e9be469454470b6403	801	Graphics/Battlers/Trainers/bakaptrainer041.png
 62498c5586576f1f14eb29f120736ea535590848	6756	Graphics/Battlers/Trainers/trainer000.png
 743db74c627a3865d5af95276cefda01f3880f0b	1957	Graphics/Battlers/Trainers/trainer001 - copia.png
 a447c359de76ef8408761d14f6880981da071bd3	6348	Graphics/Battlers/Trainers/trainer001.png
